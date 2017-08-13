@@ -1,0 +1,489 @@
+
+
+	
+
+
+.appointment-nav-tabs {
+    margin: 30px 0 0;
+    border-bottom: 1px solid #dedede;
+}
+.appointment-nav-tabs:after {
+    clear: both;
+    display: table;
+    content: " ";
+}
+.appointment-nav-tabs > li {
+    float: left;
+    margin-bottom: -1px;
+    display: block;
+}
+.appointment-nav-tabs > li > a {
+    border: 1px solid transparent;
+    border-radius: 4px 4px 0 0;
+    display: block;
+    padding: 10px 15px;
+	text-decoration: none;
+}
+.appointment-nav-tabs > li.active > a, .appointment-nav-tabs > li.active > a:focus, .appointment-nav-tabs > li.active > a:hover {
+    color: #555;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-bottom-color: transparent;
+}
+.appointment-nav-tabs > li.appointment-w-red-tab > a {
+    color: red;
+    font-weight: bold;
+}
+.appointment-tab-content {
+	background-color: #fff;
+    /* border-bottom: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-left: 1px solid #ddd;
+    width: 1400px;
+    float: left; */
+}
+.appointment-tab-content > .tab-pane {
+    display: none;
+}
+.appointment-tab-content > .active {
+    display: block;
+}
+
+.appointment-tab-pane {
+	padding: 30px;
+}
+.appointment-tab-pane {
+    display: none;
+}
+.appointment-tab-pane.active {
+    display: block;
+}
+
+#appointment-theme-version {
+    font-size: 50%;
+    padding: 10px;
+    background: #ccc;
+}
+#appointment-w-screenshot {
+    border: 1px solid #ccc;
+    margin-top: 30px;
+}
+.appointment-w-activated {
+    cursor:not-allowed !important;
+}
+.appointment-tab-pane-half {
+    /* width: 45%; */
+    /* float:left; */
+    padding-left: 20px;
+    margin-top: 15px;
+    padding-right: 20px;
+    margin-bottom: 15px;
+}
+.appointment-tab-content img {
+    max-width: 100%;
+}
+.appointment-pane-first-half {
+    border-left: none;
+}
+.appointment-pane-center {
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 30px;
+	border-bottom: 1px solid #eaeaea;
+}
+
+.appointment-tab-center {
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 30px;
+	border-bottom: 1px solid #eaeaea;
+}
+
+.appointment-info-title {
+    font-size: 32px;
+	border-bottom: 1px solid #eaeaea;
+	line-height:50px;
+}
+.appointment-clear {
+    clear: both;
+}
+.appointment-child-theme-container {
+    position: relative;
+}
+.appointment-child-theme-description {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    overflow: auto;
+    box-sizing: border-box;
+    padding: 0;
+    max-width: 100%;
+    height: 100%;
+    background-color: #000000;
+    color: #ffffff;
+    -webkit-transition: all 300ms ease-out;
+    -moz-transition: all 300ms ease-out;
+    -ms-transition: all 300ms ease-out;
+    -o-transition: all 300ms ease-out;
+    transition: all 300ms ease-out;
+    -webkit-transition-delay: 500ms;
+    -moz-transition-delay: 500ms;
+    -ms-transition-delay: 500ms;
+    -o-transition-delay: 500ms;
+    transition-delay: 500ms;
+}
+
+.appointment-child-theme-image-container {
+    position: relative;
+    overflow: hidden;
+}
+.appointment-child-theme-image-container img {
+    max-width: 100%;
+}
+.appointment-child-theme-details .theme-details {
+    padding: 10px;
+    background: none repeat scroll 0 0 #F1F1F1;
+    font-size: 18px;
+}
+
+.appointment-child-theme-details .theme-details.active {
+    background: none repeat scroll 0 0 #2B5F87;
+    color: #fff;
+}
+
+.appointment-child-theme-details .theme-details .theme-name {
+    float:left;
+}
+.appointment-child-theme-details .theme-details .preview {
+    margin-right: 2px;
+}
+.appointment-fre-pro table {
+    border-collapse: collapse;
+    width: 100%;
+}
+.appointment-fre-pro table tr {
+    border-bottom: 1px solid #ddd;
+}
+.appointment-fre-pro table td {
+    padding: 30px;
+	width: 25%;
+    padding: 10px;
+    color: #555;
+    font-weight: bold;
+    border-left: 2px solid #ebebeb;
+	text-align:center;
+}
+}
+.appointment-fre-pro table th {
+    padding-bottom: 30px;
+	font-size:19px;
+}
+.appointment-fre-pro table td span.dashicons-before:before {
+    font-size: 50px;
+    width: auto;
+    height: auto;
+}
+.appointment-fre-pro table td span.dashicons-yes:before {
+    color:green;
+}
+.appointment-fre-pro table td span.dashicons-no-alt:before {
+    color:red;
+}
+.appointment-fre-pro table tr.appointment-text-center {
+    text-align: center;
+}
+.appointment-actions-count {
+    padding: 0 6px;
+    display: inline-block;
+    background-color: #d54e21;
+    color: #fff;
+    font-size: 9px;
+    line-height: 17px;
+    font-weight: 600;
+    margin: 1px 0 0 2px;
+    vertical-align: top;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    z-index: 26;
+}
+.appointment-action-required-box {
+    position: relative;
+}
+.appointment-dismiss-required-action {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    cursor: pointer;
+    background-color: #D24A4A;
+    border-radius: 50%;
+    color: #fff;
+    font-size: 14px;
+    line-height: 20px;
+}
+.appointment-dismiss-required-action:hover {
+    background-color: #CC8C8C;
+}
+
+#github.appointment-lite-tab-pane {
+  text-align: center;
+}
+
+#github.appointment-lite-tab-pane .appointment-tab-pane-half {
+  min-height: 160px;
+}
+
+#github.appointment-lite-tab-pane .translate-button, #github .github-button {
+  margin-top: 20px;
+}
+
+#github.appointment-lite-tab-pane .dashicons {
+  color: #0073aa;
+  font-size: 12px;
+  width: auto;
+}
+
+#github.appointment-lite-tab-pane h4 {
+  margin:10px;;
+}
+
+#github.appointment-lite-tab-pane p.review-link {
+  margin:0;
+}
+
+#github.appointment-lite-tab-pane .appointment-tab-pane-half hr {
+  display: none;
+}
+
+/*Breakpoints*/
+
+}
+@media (max-width: 782px) {
+  #github.appointment-tab-pane .appointment-tab-pane-half hr {
+    display:block;
+  }
+
+  .appointment-tab-pane-half {
+    width: auto;
+    float: none;
+    border-left: none;
+  }
+  .appointment-welcome-title, .appointment-tab-content h1 {
+    line-height: 30px;
+  }
+  .appointment-fre-pro table td {
+    padding: 30px 10px;
+  }
+}
+
+.appointment-tab-pane-first-half p  
+{
+	font-size:17px;
+}
+
+
+.info-container {
+    background-color: #fff;
+    margin-right: 20px;
+    padding: 60px 30px 90px;
+    margin-top: 20px;
+    border: 1px solid #e5e5e5;
+    text-align: center;
+}
+
+.info-title {
+    margin: 0 0 45px;
+    text-transform: uppercase;
+}
+
+.info-block {
+    float: left;
+    width: 100%;
+    border: 1px solid #eaeaea;
+    padding: 25px 15px 15px;
+    margin: 1%;
+    background-color: #f7f7f7;
+	text-align:center;
+}
+
+.info-icon {
+    font-size: 34px;
+    width: auto;
+    height: auto;
+}
+
+.dashicons, .dashicons-before:before {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    font-size: 20px;
+    line-height: 1;
+    font-family: dashicons;
+    text-decoration: inherit;
+    font-weight: 400;
+    font-style: normal;
+    vertical-align: top;
+    text-align: center;
+    -webkit-transition: color .1s ease-in 0;
+    transition: color .1s ease-in 0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.info-text a {
+    color: #444;
+    text-decoration: none;
+}
+#free_pro th {font-size:30px; line-height: 40px;}
+
+/* Free vs Pro */
+/*===================================================================================*/
+/*	PRICING TABLES TWO
+/*===================================================================================*/
+.pricing1 { margin-top: 40px;  }
+.pricing h1, .pricing h2, .pricing h3, .pricing h4, .pricing h5, .pricing h6, 
+.pricing1 h1, .pricing1 h2, .pricing1 h3, .pricing1 h4, .pricing1 h5, .pricing1 h6 { font-family: 'Signika', sans-serif; }
+.pricing1 .plan {
+	font-family: sans-serif;
+	border-top-left-radius: 0px;
+	border-top-right-radius: 0px;
+	overflow: hidden;
+	/* letter-spacing: 0.5px; */
+	border-left: 1px solid #dddddd;
+	border-top: 1px solid #dddddd;
+	border-bottom: 1px solid #dddddd;
+}
+.pricing1 .border-right { border-right: 1px solid #dddddd; }
+.pricing1 .col-md-4:last-child .plan { border-right: 1px solid #dddddd; }
+.pricing1 .plan .feature li:last-child { border-bottom: 0 none; } 
+.pricing1 .plan header { background: #fff; text-align: center; }
+.pricing1 .plan h2 { background: #f8f8f8; font-size: 24px; line-height: 30px; font-weight: 400; color: #333; padding: 10px 20px 15px; border-bottom: 1px solid #dddddd; margin: 0; }
+.pricing1 .plan h2 small { display: block; color: #808080; font-size: 14px; padding-top: 7px; }
+.pricing1 .plan .btn { margin-bottom: 0; font-size: 16px; }
+.pricing1 .plan .btn i { margin-right: 7px; }
+.pricing1 .plan .price { margin-bottom: 15px; }
+.pricing1 .plan .price { line-height: 100%; }
+.pricing1 .plan .feature {
+    background: #ffffff;
+    padding: 0;
+    margin: 0;
+}
+.pricing1 .plan .feature li { padding: 12px 20px; color: #333; font-size: 18px; border-bottom: 1px solid #dddddd;     height: 110px;
+    margin-bottom: 0; }
+.pricing1.col-3 .plan header { padding: 40px; }
+.pricing1.col-3 .plan .feature { padding: 20px 30px; }
+.pricing1 .plan .price1 {
+    padding: 14px 10px 13px;
+    text-align: center;
+	border-bottom: 1px solid #dddddd;
+    font-family: 'Signika', sans-serif;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 56px;
+    color: #2f4052;
+    display: block;
+	letter-spacing: 0;
+}
+.pricing1 .plan .price1 span { display: inline-block; margin-left: -12px; }
+.pricing1 .plan .price1 span sup { position: relative; top: -0.6em; display: inline-block; padding: 0; font-size: 24px; }
+.pricing1 .plan .duration { text-align: center; color: #636e79; display: block; font-size: 16px; line-height: 25px; margin-bottom: 5px; }
+.pricing1 .col-md-3  { padding: 0; }
+.pricing1 .offer-content { border-left: 1px solid #dddddd; border-top: 0 none; border-bottom: 1px solid #dddddd; border-right: 1px solid #dddddd; }
+.pricing1 .most-popular {
+    display: block;
+    float: left;
+    width: 100%;
+    height: 36px;
+    line-height: 36px;
+    margin: -36px 0 0 0;
+    text-align: center;
+    text-transform: uppercase;
+    color: #fff;
+    background: #2f4052;
+    font-size: 15px;
+    border: 1px solid #dddddd;
+    border-bottom: none;
+	position: absolute;
+    top: 0px;
+    left: 0;
+    right: 0;
+}
+.btn-wrap { display: block; border-bottom: 1px solid #dddddd; padding: 24px 0; }
+.btn-wrap a.btn { margin-top: 0px; color: #e84a52; }
+.btn-wrap a.btn i { margin-right: 10px; }
+
+@media (max-width: 1024px) {
+
+/*Pricing Table 1*/
+.pricing1 .plan { border-right: 1px solid #dddddd; margin-bottom: 30px; }
+.pricing-content { border-top: 1px solid #dddddd; }
+.pricing1 .dashicons, .pricing1 .dashicons-before:before {
+    font-size: 30px !important;
+    line-height: 1 !important;
+}
+
+.pricing1 .plan .feature li 
+{font-size:14px;font-weight:600;}
+
+.pricing1 .plan .feature li p
+{
+	font-size:12px; font-weight:normal;
+}
+
+}
+
+@media (max-width: 768px) {
+
+.pricing1 .plan .feature li {
+    height: auto !important;
+}
+}
+
+.blank{
+    background: transparent;
+    
+    
+    padding: 10px 20px 15px;
+    border: 0px none;
+    padding-top:10px;
+}
+.border0 { border: 0 none; }
+.red { color: red; } .green { color: green; }
+.padding0 { padding: 0; }
+.padding10 { padding: 15px; }
+.margin56 { margin-top: 56px; }
+.pricing1 .dashicons, .pricing1 .dashicons-before:before {
+    display: inline-block;
+    /* width: 35px;
+    height: 35px; */
+    font-size: 40px;
+    line-height: 1.7;
+    font-family: dashicons;
+    text-decoration: inherit;
+    font-weight: 400;
+    font-style: normal;
+    vertical-align: top;
+    text-align: center;
+    -webkit-transition: color .1s ease-in 0;
+    transition: color .1s ease-in 0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+a.info-block{text-decoration:none;color:#333;}
+a.info-block:hover, a.info-block:active, a.info-block:focus{color:#333;}
+
+
+.theme-name { margin: 5px 0; }
+.theme-btn { float: right; }
+.theme-btn a { display: inline-block; margin: 5px 0 !important; }
+@media (max-width: 1500px) {
+	
+	.theme-name { float: none !important; text-align: center; display: block; }
+	.theme-btn { float: none; text-align: center; display: block; margin: 0 auto; }
+	
+}	
+
+@media (max-width: 768px) {	
+	
+	.appointment-tab-pane-half { padding-left: 0; padding-right: 0; }
+	
+}	

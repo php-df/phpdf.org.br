@@ -1,0 +1,1057 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: appointment\n"
+"POT-Creation-Date: 2017-04-14 18:33+0530\n"
+"PO-Revision-Date: 2017-04-14 18:33+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: C:\\xampp\\htdocs\\rambo\\wp-content\\themes"
+"\\appointment\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\rambo\\wp-content\\themes"
+"\\appointment\n"
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/404.php:9
+msgid "Error 404"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/404.php:10
+msgid "Oops! Page not found"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/404.php:11
+msgid "We are sorry, but the page you are looking for does not exist."
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/404.php:12
+msgid "Go Back"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/archive.php:10
+msgid "Daily Archive"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/archive.php:12
+msgid "Monthly Archive"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/archive.php:14
+msgid "Yearly Archive"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/archive.php:16
+msgid "Blog Archive"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/author.php:12
+msgid "Author Archive"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/category.php:9
+msgid "Category Archive"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/comments.php:2
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/comments.php:12
+msgid "Reply"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/comments.php:24
+msgid "Posted on"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/comments.php:26
+msgid "Edit"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/comments.php:29
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/comments.php:40
+msgid "No Comments so far"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/comments.php:40
+msgid "1 Comment so far"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/comments.php:40
+msgid "Comments so far"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/comments.php:47
+msgid "Comment navigation"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/comments.php:48
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/comments.php:49
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/comments.php:53
+msgid "Comments are closed."
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/comments.php:57
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/comments.php:64
+msgid "Name"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/comments.php:65
+msgid "Email"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/comments.php:74
+msgid "Leave your message"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/comments.php:75
+msgid "Logged in as"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/comments.php:75
+msgid "Logout from this Account"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/comments.php:75
+msgid "Logout"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/comments.php:77
+msgid "Send Message"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/comments.php:80
+msgid "Leave a Reply"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/content.php:12
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions.php:115
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions.php:132
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/index-slider.php:25
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/index-slider.php:33
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/index-slider.php:41
+msgid "Read More"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions.php:57
+msgid "Primary Menu"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions.php:83
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/breadcrumbs/breadcrumbs.php:102
+msgid "Page"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions.php:95
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-copyright.php:96
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-header.php:218
+msgid "Facebook URL"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions.php:96
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-copyright.php:132
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-header.php:256
+msgid "Twitter URL"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions.php:97
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-copyright.php:167
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-header.php:292
+msgid "LinkedIn URL"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions.php:98
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-copyright.php:203
+msgid "GooglePlus URL"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/index-news.php:47
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/template-tag.php:23
+msgid "By"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/index-slider.php:23
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/index-slider.php:31
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/index-slider.php:39
+msgid "Powerful Bootstrap Theme"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/index-slider.php:24
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/index-slider.php:32
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/index-slider.php:40
+msgid ""
+"This is a very powerful theme that can be used for any type of business. The "
+"layout is clean and elegant."
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/search.php:11
+msgid "Search Results for"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/search.php:16
+msgid "Nothing Found"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/search.php:18
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/single.php:17
+msgid "About the author"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/tag.php:12
+msgid "Tag Archive"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/theme_setup_data.php:33
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-service.php:42
+msgid "Our services"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/theme_setup_data.php:36
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/theme_setup_data.php:39
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/theme_setup_data.php:42
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/theme_setup_data.php:45
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/theme_setup_data.php:48
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/theme_setup_data.php:51
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-service.php:100
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-service.php:163
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-service.php:226
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-service.php:287
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-service.php:349
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-service.php:412
+msgid "Easy to use"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/theme_setup_data.php:56
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-callout.php:44
+msgid "Want to say hey or find out more?"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/theme_setup_data.php:59
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-callout.php:98
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-template.php:614
+msgid "Purchase Now"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/theme_setup_data.php:62
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-callout.php:157
+msgid "Get in Touch"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/theme_setup_data.php:69
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-news.php:63
+msgid "Latest news"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/theme_setup_data.php:75
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-copyright.php:23
+msgid "No copyright information has been saved yet."
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/appointment-info/welcome-screen.php:57
+msgid "Get started with Appointment Lite"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/appointment-info/welcome-screen.php:100
+msgid "Hooray! There are no required actions for you right now."
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/appointment-info/welcome-screen.php:137
+msgid "View Theme Info"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/appointment-info/sections/child-themes.php:37
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/appointment-info/sections/child-themes.php:68
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/appointment-info/sections/child-themes.php:100
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/appointment-info/sections/child-themes.php:132
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/appointment-info/sections/child-themes.php:164
+#, php-format
+msgid "Install %s now"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/appointment-info/sections/child-themes.php:162
+msgid "SHK Corporate"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/appointment-info/sections/free_pro.php:13
+msgid "Features"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/appointment-info/sections/free_pro.php:91
+msgid "Appointment Lite"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/appointment-info/sections/free_pro.php:95
+msgid ""
+"Slider [Unlimited Slides], Widget Area Below Slider, Service [6 Services], "
+"Callout Section, Latest News"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/appointment-info/sections/free_pro.php:96
+msgid "Homepage Template and Full-Width Page Template"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/appointment-info/sections/free_pro.php:107
+msgid "WordPress Support Forum"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/appointment-info/sections/free_pro.php:119
+msgid "Appointment Pro"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/appointment-info/sections/free_pro.php:123
+msgid ""
+"Top Header, Slider [Unlimited Slides], Services [Unlimited], Callout, "
+"Portfolio [Unlimited Projects], Latest News, Clients, Testimonials and "
+"Custom Widgets"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/appointment-info/sections/free_pro.php:125
+msgid ""
+"About Us, Services, Portfolio, Blog Left & Right Sidebars, Blog Full Width, "
+"Page Full Width, Contact Page and much more."
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/appointment-info/sections/free_pro.php:136
+msgid "Webriti Support Forum"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/appointment-info/sections/getting-started.php:14
+msgid "About Appointment Theme"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/appointment-info/sections/getting-started.php:46
+msgid "Lite Demo"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/appointment-info/sections/getting-started.php:49
+msgid "Pro Demo"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/appointment-info/sections/getting-started.php:52
+msgid "Premium Theme Support"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/appointment-info/sections/getting-started.php:61
+msgid "Premium Theme Details"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/appointment-info/sections/getting-started.php:64
+msgid "Your feedback is valuable to us"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/appointment-info/sections/github.php:98
+msgid ""
+"We provide good knowledgebase articles which will help you to create "
+"effective websites. You can visit these articles via our <a href='http://"
+"webriti.com/help/category/themes/appointment/' target='_blank'>Help Section</"
+"a>."
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-callout.php:9
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-callout.php:15
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-template.php:532
+msgid "Contact callout settings"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-callout.php:34
+msgid "Hide callout section from homepage"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-callout.php:51
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-footer-callout.php:88
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-footer-callout.php:144
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-footer-callout.php:199
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-news.php:70
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-project.php:55
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-service.php:51
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-service.php:109
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-service.php:172
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-service.php:235
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-service.php:296
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-service.php:358
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-service.php:421
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-template.php:389
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-template.php:443
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-template.php:498
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-template.php:586
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-testimonial.php:53
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/widgets/appointment_info_widget.php:81
+msgid "Title"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-callout.php:66
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-footer-callout.php:107
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-footer-callout.php:163
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-footer-callout.php:218
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-news.php:85
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-project.php:73
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-service.php:68
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-service.php:127
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-service.php:190
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-service.php:253
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-service.php:314
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-service.php:377
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-service.php:440
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-template.php:407
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-template.php:462
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-template.php:517
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-template.php:604
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-testimonial.php:68
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/widgets/appointment_info_widget.php:88
+msgid "Description"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-callout.php:80
+msgid "Background Image"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-callout.php:91
+msgid "Button one"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-callout.php:108
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-callout.php:167
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-template.php:624
+msgid "Button Text"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-callout.php:116
+msgid "Button two"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-callout.php:132
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-callout.php:184
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-template.php:643
+msgid "Button Link"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-callout.php:148
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-callout.php:200
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-copyright.php:113
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-copyright.php:149
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-copyright.php:184
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-copyright.php:220
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-copyright.php:256
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-header.php:235
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-header.php:274
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-header.php:310
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-template.php:661
+msgid "Open link in new tab"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-client.php:5
+msgid "Want to add a client image and link?"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-client.php:5
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-pro.php:20
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-project.php:6
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-slider.php:5
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer_theme_style.php:12
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-client.php:15
+msgid "Client settings"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-client.php:21
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-service.php:13
+msgid "Section Heading"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-client.php:35
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-footer-callout.php:35
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-project.php:37
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-slider.php:157
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-template.php:82
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-template.php:107
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-template.php:156
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-template.php:185
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-template.php:305
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-template.php:547
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-testimonial.php:35
+msgid "Appointment upgrade"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-copyright.php:7
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-copyright.php:13
+msgid "Footer copyright settings"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-copyright.php:32
+msgid "Copyright text"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-copyright.php:47
+msgid "Hide copyright text"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-copyright.php:56
+msgid "Social Links"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-copyright.php:77
+msgid "Hide footer social icons"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-copyright.php:239
+msgid "Skype URL"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-emailcourse.php:5
+msgid "CREATE TRUSTWORTHY WEBSITES"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-emailcourse.php:20
+msgid "A website exists for one and ONLY one reason:"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-emailcourse.php:21
+msgid "To bring you more business."
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-emailcourse.php:23
+msgid ""
+"Think of your website as a hardworking salesman who works 24/7 and never "
+"asks for a raise!"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-emailcourse.php:25
+msgid ""
+"In this email course I deliver 4 highly actionable tips on how you can build "
+"a website which is trustworthy and which, in turn, brings more business to "
+"you."
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-emailcourse.php:29
+msgid "JOIN COURSE"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-footer-callout.php:5
+msgid ""
+"Want to add footer callout content?<a href='http://www.webriti.com/"
+"appointment' target='_blank'> Upgrade to Pro</a>."
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-footer-callout.php:14
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-footer-callout.php:21
+msgid "Footer callout settings"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-footer-callout.php:47
+msgid "Stay in touch with us"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-footer-callout.php:54
+msgid "Callout Header"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-footer-callout.php:70
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-footer-callout.php:125
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-footer-callout.php:181
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-service.php:91
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-service.php:154
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-service.php:216
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-service.php:278
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-service.php:340
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-service.php:403
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-template.php:371
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-template.php:425
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-template.php:480
+msgid "Icon"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-footer-callout.php:79
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-template.php:380
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/widgets/appointment_info_widget.php:42
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/widgets/appointment_info_widget.php:63
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/widgets/appointment_info_widget.php:82
+msgid "Have a question? Call us now"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-footer-callout.php:134
+msgid "We are open Mon - Fri"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-footer-callout.php:154
+msgid "Mon - Fri : 08.00 - 18.00"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-footer-callout.php:190
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-template.php:489
+msgid "Drop us a mail"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-header.php:9
+msgid "Header settings"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-header.php:13
+msgid "Custom header settings"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-header.php:25
+msgid "Header Headline"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-header.php:38
+msgid "Header Text"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-header.php:46
+msgid "Header logo settings"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-header.php:64
+msgid "Upload a 150x150 Logo Image"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-header.php:83
+msgid "Enable/Disable Logo"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-header.php:104
+msgid "Enter Logo Width"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-header.php:123
+msgid "Enter Logo Height"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-header.php:145
+msgid "Show Logo text"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-header.php:153
+msgid "Site Favicon"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-header.php:155
+msgid "Upload a favicon"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-header.php:166
+msgid "Choose your favicon (ideal width and height is 16x16 or 32x32)"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-header.php:196
+msgid "Hide Header Social icons"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-header.php:316
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-header.php:329
+msgid "Custom CSS"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-news.php:8
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-news.php:14
+msgid "Latest News settings"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-news.php:34
+msgid "Hide News section from Homepage"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-news.php:53
+msgid "Hide post meta from News section"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-news.php:102
+msgid "Select category for Latest News"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-news.php:122
+msgid "Select number of Posts"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-pro.php:13
+msgid "UPGRADE TO PRO"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-pro.php:46
+msgid "ADD YOUR REVIEW"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-pro.php:73
+msgid "DOCUMENTATION"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-pro.php:77
+msgid ""
+"The Pro version gives you more opportunities to enhance your site and "
+"business. In order to create an effective online presence, one must showcase "
+"their wide range of products, use a Contact Us enquiry form, create an "
+"effective About Us page, introduce the Team Members, etc. The Pro version "
+"offers all this. Buy the Pro version today and give us the chance to serve "
+"you better."
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-project.php:6
+msgid "Want to add projects and categorization?"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-project.php:15
+msgid "Project settings"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-project.php:21
+msgid "Homepage project settings"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-project.php:48
+msgid "Latest projects"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-project.php:91
+msgid "Input number of projects"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-project.php:105
+msgid "Click here to add project"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-project.php:135
+msgid "Select project category archive column layout"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-service.php:8
+msgid "Service settings"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-service.php:33
+msgid "Hide service section from homepage"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-service.php:77
+msgid "Service section one"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-service.php:135
+msgid "Service section two"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-service.php:197
+msgid "Service section three"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-service.php:261
+msgid "Service section four"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-service.php:322
+msgid "Service section five"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-service.php:384
+msgid "Service section six"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-service.php:453
+msgid "Add more services. Get Pro."
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-service.php:461
+msgid "Add more services"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-slider.php:5
+msgid "Want a greater variety of slides, just like our premium version?"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-slider.php:14
+msgid "Slider settings"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-slider.php:20
+msgid "Featured slider settings"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-slider.php:39
+msgid "Hide slider from homepage"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-slider.php:60
+msgid "Select slider type"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-slider.php:63
+msgid "Demo slider"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-slider.php:64
+msgid "Category slider"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-slider.php:82
+msgid "Select category for slider"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-slider.php:93
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-slider.php:106
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-testimonial.php:81
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-testimonial.php:93
+msgid "slide"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-slider.php:104
+msgid "Select slider animation"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-slider.php:106
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-testimonial.php:93
+msgid "fade"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-slider.php:124
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-testimonial.php:115
+msgid "Duration"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-slider.php:143
+msgid "Input number of slides"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-template.php:7
+msgid ""
+"Want to add a company About Us, Team, Client, footer, callout with the About "
+"template? <a href='http://www.webriti.com/appointment' "
+"target='_blank'>Upgrade to Pro</a>"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-template.php:15
+msgid ""
+"Want to add more services, testimonials, clients, footer callouts in the "
+"Service template? <a href='http://www.webriti.com/appointment' "
+"target='_blank'>Upgrade to Pro</a>"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-template.php:24
+msgid ""
+"Want to use the blog meta settings? <a href='http://www.webriti.com/"
+"appointment' target='_blank'>Upgrade to Pro</a>"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-template.php:31
+msgid ""
+"Want to add contact form information and a contact map in the Contact "
+"template? <a href='http://www.webriti.com/appointment' "
+"target='_blank'>Upgrade to Pro</a>"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-template.php:39
+msgid ""
+"Want to add contact address infromation in the Contact template? <a "
+"href='http://www.webriti.com/appointment' target='_blank'>Upgrade to Pro</a>"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-template.php:47
+msgid ""
+"Want to add contact callout information in the Contact template? <a "
+"href='http://www.webriti.com/appointment' target='_blank'>Upgrade to Pro</a>"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-template.php:59
+msgid "Template settings"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-template.php:66
+msgid "About Us page settings"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-template.php:92
+msgid "Blog page settings"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-template.php:127
+msgid ""
+"Hide post meta from blog pages, archive pages, categories, authors, etc."
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-template.php:139
+msgid "Service page settings"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-template.php:169
+msgid "Contact page setting"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-template.php:195
+msgid "Send us a message"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-template.php:202
+msgid "Contact form title"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-template.php:220
+msgid "Hide Google Map"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-template.php:230
+msgid "Find the address"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-template.php:237
+msgid "Contact Google Map title"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-template.php:253
+msgid "Google Map URL"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-template.php:267
+msgid "Click here to add Google Map"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-template.php:290
+msgid "Contact information settings"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-template.php:325
+msgid "Hide contact info section from Contact page"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-template.php:334
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-template.php:579
+msgid "Contact info"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-template.php:341
+msgid "Section title"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-template.php:350
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-testimonial.php:61
+msgid "Read what customers are saying:"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-template.php:357
+msgid "Section description"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-template.php:434
+msgid "Our office location"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-template.php:569
+msgid "Hide contact callout from Contact page"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-testimonial.php:5
+msgid ""
+"Want to add testimonials? <a href='http://www.webriti.com/appointment' "
+"target='_blank'>Upgrade to Pro</a>"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-testimonial.php:13
+msgid "Testimonial settings"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-testimonial.php:19
+msgid "Homepage testimonial settings"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-testimonial.php:46
+msgid "What our clients say:"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-testimonial.php:91
+msgid "Animation"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-testimonial.php:114
+msgid "If the transition-delay value is 2000 that means 2 seconds."
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer-testimonial.php:129
+msgid "Click here to add testimonial"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer_theme_style.php:12
+msgid "Want to use the predefined theme colors seen below?"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer_theme_style.php:13
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer_theme_style.php:54
+msgid "Predefined colors"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer_theme_style.php:40
+msgid "Theme style setting"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer_theme_style.php:89
+msgid "Enable custom color skin"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/customizer/customizer_theme_style.php:108
+msgid "Skin color"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/menu/default_menu_walker.php:23
+msgid "Home"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/widgets/appointment_info_widget.php:14
+msgid "WBR : Info Widget"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/widgets/appointment_info_widget.php:17
+msgid "Appointment theme information widget"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/widgets/appointment_info_widget.php:84
+msgid "FontAwesome icon"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/widgets/appointment_info_widget.php:86
+msgid "Link to get FontAwesome icon"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/widgets/sidebars.php:7
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/widgets/sidebars.php:9
+msgid "Sidebar widget area"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/widgets/sidebars.php:16
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/widgets/sidebars.php:18
+msgid "Footer widget area"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/widgets/sidebars.php:26
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/widgets/sidebars.php:28
+msgid "Left widget area below slider"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/widgets/sidebars.php:35
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/widgets/sidebars.php:37
+msgid "Right widget area below slider"
+msgstr ""
+
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/widgets/sidebars.php:44
+#: C:\xampp\htdocs\rambo\wp-content\themes\appointment/functions/widgets/sidebars.php:46
+msgid "Center widget area below slider"
+msgstr ""
