@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spectral</title>
+    <description>Another fine responsive  
+site template freebie  
+crafted by [HTML5 UP](http://html5up.net)
+</description>
+    <link>http://0.0.0.0:4000/</link>
+    <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 11 Nov 2017 05:44:09 -0600</pubDate>
+    <lastBuildDate>Sat, 11 Nov 2017 05:44:09 -0600</lastBuildDate>
+    <generator>Jekyll v3.6.2</generator>
+    
+  </channel>
+</rss>
