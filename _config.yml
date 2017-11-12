@@ -1,59 +1,22 @@
-# Welcome to Jekyll!
-#
-
 # Site settings
-title: Spectral
-description: |
-  Another fine responsive  
-  site template freebie  
-  crafted by [HTML5 UP](http://html5up.net)
-owner: Your Name # or company name
-first_published: 2016 # if migrating another site, the year of your first publish
-email: your-email@domain.com
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+title: PHPDF
+description: Grupo de desenvolvedores PHP do Distrito Federal
+owner: PHPDF
+email: ""
+baseurl: ""
+url: "http://www.phpdf.org.br/"
 social:
-  twitter: https://twitter.com/<username>
-  github: https://github.com/<username>
-  linkedin-square: https://linkedin.com/in/<username>
-  facebook-official: https://facebook.com/<username>
-  google-plus-square: https://plus.google.com/u/0/+<username>
-  #email: /contact/
-  #flickr:
-  #instagram:
-  #youtube-square:
-  #spotify:
-  #stack-overflow:
-  #vimeo:
-  #reddit:
-  #stubleupon:
-  #delicious:
-  #pied-piper:
-  #digg:
-  #soundcloud:
-  #deviantart:
-  #angellist:
-  #tumblr-square:
-  #stackexchange:
-  #weibo:
-  #trello:
-  #foursquare:
-  #linux:
-  #bitbucket-square:
-  #vk:
-  #slack:
-  #vine:
-  #weixin:
-  #yelp:
-  #skyatlas:
-  #leanpub:
-  #connectdevelop:
-  #ils:
-  #forumbee:
-  #tripadvisor:
-  #amazon:
+  twitter: https://twitter.com/phpdf_
+  github: https://github.com/php-df
+  facebook-official: https://www.facebook.com/groups/518644508178778/
+  instagram: https://www.instagram.com/phpdf/
+  whatsapp: https://chat.whatsapp.com/invite/AJkY9ZIlCyOJygPb83KMI5
+  telegram: https://telegram.me/phpdf
+  meetup: https://www.meetup.com/pt-BR/php-df/
 
 # Build settings
 markdown: kramdown
-#sass:
-#  style: compressed
+
+# Google-analytics
+google-analytics:
+  id: ""

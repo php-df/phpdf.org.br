@@ -1,3 +1,5 @@
 .idea/
 uploads/
 upgrade/
+vendor/
+_site/
