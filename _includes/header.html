@@ -2,7 +2,7 @@
 <header id="header" {% if page.layout== 'landing' %} class="alt"{% endif %}>
 <h1>
     <a href="{{ site.baseurl }}">
-        <img id="logo" src="css/images/logo_b.png" title="{{site.title}}" />
+        <img id="logo" src="images/logo_b.png" title="{{site.title}}" />
     </a>
 </h1>
 <nav id="nav">
@@ -11,6 +11,21 @@
             <a href="#menu" class="menuToggle"></a>
             <div id="menu">
                 <ul>
+                    <li>
+                        <a href="#cta" title="Quer ser um palestrante?">
+                            <span>Quer ser um palestrante?</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#three" title="Eventos">
+                            <span>Eventos</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#two" title="Parceiros">
+                            <span>Parceiros</span>
+                        </a>
+                    </li>
                     <li>
                         <a href="{{site.social.twitter}}" target="_blank" title="Twitter">
                             <i class="fa fa-twitter"></i>
@@ -53,7 +68,6 @@
                             <span>Meetup</span>
                         </a>
                     </li>
-
                 </ul>
             </div>
         </li>

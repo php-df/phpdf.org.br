@@ -215,6 +215,15 @@ $baseurl: '{{ site.baseurl }}/images';
 		&.special {
 			text-align: center;
 		}
+
+		&.patrocinadores{
+			text-align: center;
+			li {
+				img {
+					max-width: 50%;
+				}
+			}
+		}
 	}
 
 	header {
@@ -1393,10 +1402,9 @@ $baseurl: '{{ site.baseurl }}/images';
 		z-index: _misc(z-index-base);
 
 		h1 {
-			padding: 7px;
-
 			#logo {
-				height: 35px;
+				margin-top: 0.5em;
+				height: 2em;
 			}
 		}
 
@@ -1629,7 +1637,7 @@ $baseurl: '{{ site.baseurl }}/images';
 			header {
 				@include vendor('order', '1');
 				padding-right: 3em;
-				width: 70%;
+				width: 100%;
 
 				p {
 					color: inherit;
@@ -1638,7 +1646,7 @@ $baseurl: '{{ site.baseurl }}/images';
 
 			.actions {
 				@include vendor('order', '2');
-				width: 30%;
+				width: 100%;
 			}
 
 			@include breakpoint(medium) {
@@ -1733,7 +1741,7 @@ $baseurl: '{{ site.baseurl }}/images';
 		text-align: center;
 
 		.icons {
-			font-size: 2em;
+			font-size: 1.5em;
 
 			a {
 				color: _palette(fg-light);
