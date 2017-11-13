@@ -3,7 +3,7 @@
     <ul class="icons">
         {% for socloc in site.social %}
             {% if socloc[1] %}
-                {% if socloc[0] == 'email' %}
+                {% if socloc[0] == 'email' && socloc[1] != '' %}
                     <li>
                         <a target="_blank" href="{{ socloc[1] }}" class="icon fa-envelope-o">
                             <span class="label">E-mail</span>
