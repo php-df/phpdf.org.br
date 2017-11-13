@@ -1818,7 +1818,7 @@ $baseurl: '{{ site.baseurl }}/images';
 
 	body.landing {
 		#page-wrapper {
-			@include vendor('background-image', ('linear-gradient(top, rgba(23,62,95,0.6), rgba(23,62,95,0.6))', 'url("#{$baseurl}/banner.jpg")'));
+			@include vendor('background-image', ('linear-gradient(top, rgba(225,225,225,0.6), rgba(23,62,95,0.6))', 'url("#{$baseurl}/banner.jpg")'));
 			background-attachment: fixed;
 			background-position: center center;
 			background-repeat: no-repeat;
