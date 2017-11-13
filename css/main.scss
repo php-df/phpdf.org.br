@@ -1627,9 +1627,9 @@ $baseurl: '{{ site.baseurl }}/images';
 		}
 	}
 
-/* CTA */
+/* palestrante */
 
-	#cta {
+	#palestrante {
 		.inner {
 			@include vendor('display', 'flex');
 			max-width: 45em;
