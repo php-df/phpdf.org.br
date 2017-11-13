@@ -499,15 +499,15 @@ $baseurl: '{{ site.baseurl }}/images';
 			}
 		}
 
-		&.style1 {
+		&.sobre {
 			color: _palette(accent2, bg);
 		}
 
-		&.style2 {
+		&.patrocinadores {
 			color: _palette(accent3, bg);
 		}
 
-		&.style3 {
+		&.eventos {
 			color: _palette(accent4, bg);
 		}
 	}
@@ -1248,19 +1248,19 @@ $baseurl: '{{ site.baseurl }}/images';
 			padding: 0;
 		}
 
-		&.style1 {
+		&.sobre {
 			@include wrapper(accent1);
 		}
 
-		&.style2 {
+		&.patrocinadores {
 			@include wrapper(accent5);
 		}
 
-		&.style3 {
+		&.eventos {
 			background-color: _palette(bg);
 		}
 
-		&.style4 {
+		&.palestrante {
 			background-color: transparent;
 		}
 
@@ -1830,7 +1830,7 @@ $baseurl: '{{ site.baseurl }}/images';
 			}
 
 			#banner,
-			.wrapper.style4 {
+			.wrapper.palestrante {
 				@include vendor('background-image', ('linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5))', 'url("#{$baseurl}/banner.jpg")'));
 				background-position: center center;
 				background-repeat: no-repeat;
