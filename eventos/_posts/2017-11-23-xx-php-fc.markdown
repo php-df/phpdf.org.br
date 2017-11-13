@@ -1,0 +1,13 @@
+---
+layout:      default
+title:       "XX PHP FC"
+date:        2017-11-23 19:00:00-0200
+description: "
+Talk 1: Tornando-se um contribuidor, OpenSourcer e além
+<br />
+Talk 2: Programando Melhor
+"
+categories:  php-fc
+link:        https://www.meetup.com/pt-BR/php-df/events/244994953/
+icon:        calendar
+---

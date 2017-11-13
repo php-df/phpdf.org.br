@@ -9,7 +9,7 @@
         {% for post in site.categories.eventos %}
             <li class="icon fa-{{ post.icon | escape }}">
                 <h3>{{ post.title | escape }}</h3>
-                {% assign date_format = site.minima.date_format | default: "%d/%m/%Y  · %H:%M" %}
+                {% assign date_format = site.minima.date_format | default: "%d/%m/%Y  · %k:%M" %}
                 <small>{{ post.date | date: date_format }}</small>
                 <p>
                     <span>

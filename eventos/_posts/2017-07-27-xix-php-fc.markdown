@@ -11,4 +11,3 @@ categories:  php-fc
 link:        https://www.meetup.com/pt-BR/php-df/events/241799050/
 icon:        calendar
 ---
-

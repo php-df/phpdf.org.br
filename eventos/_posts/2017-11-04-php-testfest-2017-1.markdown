@@ -7,4 +7,3 @@ categories:  php-testfest
 link:        https://www.meetup.com/pt-BR/php-df/events/244578958/
 icon:        code
 ---
-
