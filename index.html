@@ -8,7 +8,11 @@ layout: landing
             <img id="logo" src="images/logo_ba.png" title="{{site.title}}" />
         </h2>
 
-        <p>{{ site.description | markdownify }}</p>
+        <p>
+            {{ site.description | markdownify }}
+            <br />
+            <a href="#three" class="button">Quero participar</a>
+        </p>
     </div>
     <a href="#one" class="more scrolly"></a>
 </section>
@@ -24,22 +28,6 @@ layout: landing
                 organizados mensalmente.
             </p>
         </header>
-    </div>
-</section>
-
-<!-- Two -->
-<section id="two" class="wrapper style2 patrocinadores">
-    <div class="inner">
-        <header class="major">
-            <h2>Parceiros e Patrocionadores</h2>
-        </header>
-        <ul class="icons major">
-            <li>
-                <a href="https://flisoldf.blog.br" target="_blank" title="FLISOLDF">
-                    <img src="images/flisol.png" title="FLISOLDF"/>
-                </a>
-            </li>
-        </ul>
     </div>
 </section>
 
@@ -101,6 +89,7 @@ layout: landing
     </div>
 </section>
 
+
 <!-- CTA -->
 <section id="cta" class="wrapper style4">
     <div class="inner">
@@ -108,8 +97,26 @@ layout: landing
             <h2>Quer ser um palestrante?</h2>
             <p>Se você tem um assunto legal e está afim de compartilhar conosco, basta clicar no botão abaixo.</p>
             <ul class="vertical actions">
-                <li><a href="https://github.com/php-df/quero-palestrar" class="button fit special">Quero palestrar</a></li>
+                <li><a href="https://github.com/php-df/quero-palestrar" class="button special">Quero palestrar</a></li>
             </ul>
         </header>
     </div>
 </section>
+
+<!-- Two -->
+<section id="two" class="wrapper style2 patrocinadores">
+    <div class="inner">
+        <header class="major">
+            <h2>Parceiros e Patrocionadores</h2>
+        </header>
+        <ul class="icons major">
+            <li>
+                <a href="https://flisoldf.blog.br" target="_blank" title="FLISOLDF">
+                    <img src="images/flisol.png" title="FLISOLDF"/>
+                </a>
+            </li>
+        </ul>
+    </div>
+</section>
+
+
