@@ -1333,6 +1333,14 @@ $baseurl: '{{ site.baseurl }}/images';
 					@include breakpoint(small) {
 						line-height: 3em;
 					}
+
+					i {
+						font-size: 2.3em;
+					}
+
+					span {
+						vertical-align: super;
+					}
 				}
 			}
 		}
@@ -1383,6 +1391,15 @@ $baseurl: '{{ site.baseurl }}/images';
 		top: 0;
 		width: 100%;
 		z-index: _misc(z-index-base);
+
+		h1 {
+			padding: 7px;
+
+			#logo {
+				height: 35px;
+			}
+		}
+
 
 		h1 {
 			@include vendor('transition', 'opacity #{_duration(transitions)} ease');
@@ -1498,27 +1515,6 @@ $baseurl: '{{ site.baseurl }}/images';
 			padding: 0.35em 1em;
 			position: relative;
 			z-index: 1;
-
-			&:before, &:after {
-				@include vendor('transition', 'width 0.85s ease');
-				@include vendor('transition-delay', '0.25s');
-				background: _palette(fg-bold);
-				content: '';
-				display: block;
-				height: 2px;
-				position: absolute;
-				width: 100%;
-			}
-
-			&:before {
-				top: 0;
-				left: 0;
-			}
-
-			&:after {
-				bottom: 0;
-				right: 0;
-			}
 		}
 
 		p {
@@ -1737,7 +1733,7 @@ $baseurl: '{{ site.baseurl }}/images';
 		text-align: center;
 
 		.icons {
-			font-size: 1.25em;
+			font-size: 2em;
 
 			a {
 				color: _palette(fg-light);

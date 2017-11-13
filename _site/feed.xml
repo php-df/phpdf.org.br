@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Spectral</title>
-    <description>Another fine responsive  
-site template freebie  
-crafted by [HTML5 UP](http://html5up.net)
-</description>
-    <link>http://0.0.0.0:4000/</link>
-    <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 11 Nov 2017 05:44:09 -0600</pubDate>
-    <lastBuildDate>Sat, 11 Nov 2017 05:44:09 -0600</lastBuildDate>
+    <title>PHPDF</title>
+    <description>Grupo de desenvolvedores PHP do Distrito Federal</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 12 Nov 2017 23:36:06 -0200</pubDate>
+    <lastBuildDate>Sun, 12 Nov 2017 23:36:06 -0200</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
   </channel>
