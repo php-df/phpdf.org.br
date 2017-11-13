@@ -1,0 +1,13 @@
+---
+layout:      default
+title:       "XIX PHP FC"
+date:        2017-07-27 19:00:00-0300
+description: "
+Talk 1: Monitorando a segurança de dependências
+<br />
+Talk 2: Como frustrar o usuário com a sua interface
+"
+categories:  php-fc
+link:        https://www.meetup.com/pt-BR/php-df/events/241799050/
+icon:        calendar
+---

@@ -1,7 +1,10 @@
 # PHPDF Site 
 
-[English Version](./README-EN.md)
-
 ### Sobre
 
-Neste repositório contém o conteúdo do diretório "wp-content" do novo site da comunidade PHPDF. 
+Site da comunidade PHPDF. 
+
+## Quickstart
+docker-compose up -d --build
+
+>Tema em jekyll por [@arkadianriver](https://github.com/arkadianriver/spectral/)

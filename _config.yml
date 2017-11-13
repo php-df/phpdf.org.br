@@ -1,0 +1,21 @@
+# Site settings
+title: PHPDF
+description: Grupo de desenvolvedores PHP do Distrito Federal
+owner: PHPDF
+baseurl: "/site-phpdf/"
+url: "http://www.phpdf.org.br"
+social:
+  twitter: https://twitter.com/phpdf_
+  github: https://github.com/php-df
+  facebook-official: https://www.facebook.com/groups/518644508178778/
+  instagram: https://www.instagram.com/phpdf/
+  whatsapp: https://chat.whatsapp.com/invite/AJkY9ZIlCyOJygPb83KMI5
+  telegram: https://telegram.me/phpdf
+  meetup: https://www.meetup.com/pt-BR/php-df/
+
+# Build settings
+markdown: kramdown
+
+# Google-analytics
+google-analytics:
+  id: ""

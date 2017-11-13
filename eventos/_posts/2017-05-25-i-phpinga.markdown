@@ -1,0 +1,9 @@
+---
+layout:      default
+title:       "I PHPinga"
+date:        2017-05-25 19:00:00-0300
+description: "O PHPinga visa promover um encontro descontraído com todos os membros do PHPDF onde vamos jogar papo fora, comer e beber!"
+categories:  phpinga
+link:        https://www.meetup.com/pt-BR/php-df/events/240270961/
+icon:        beer
+---
