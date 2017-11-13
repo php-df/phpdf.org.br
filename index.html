@@ -3,120 +3,28 @@ layout: landing
 ---
 <!-- Banner -->
 <section id="banner">
-    <div class="inner">
-        <h2>
-            <img id="logo" src="images/logo_ba.png" title="{{site.title}}" />
-        </h2>
-
-        <p>
-            {{ site.description | markdownify }}
-            <br />
-            <a href="#three" class="button">Quero participar</a>
-        </p>
-    </div>
-    <a href="#one" class="more scrolly"></a>
+    {% include banner.html %}
 </section>
 
 <!-- One -->
 <section id="one" class="wrapper style1 special">
-    <div class="inner">
-        <header class="major">
-            <h2>Somos PHPDF</h2>
-            <p>
-                Desde 2014 atuamos como representantes da tecnologia PHP em Brasília,
-                sempre em busca de capacitação e excelência profissional, através de encontros
-                organizados mensalmente.
-            </p>
-        </header>
-    </div>
+    {% include sobre.html %}
 </section>
 
 <!-- Three -->
 <section id="three" class="wrapper style3 special">
-    <div class="inner">
-        <header class="major">
-            <h2>Encontros e eventos</h2>
-            <p>
-                Estes são nossos encontros e eventos mais recentes.
-            </p>
-        </header>
-        <ul class="features">
-            <li class="icon fa-code">
-                <h3>PHP TestFest 2017 #1</h3>
-                <small>04/11/2017 · 9:45</small>
-                <p>
-                    De setembro a dezembro acontece o PHP TestFest 2017 e a primeira 2017 edição do PHPDF será sábado, 04/11/2017,
-                    <br />
-                    <br />
-                    <a href="https://www.meetup.com/pt-BR/php-df/events/244578958/" class="button fit" target="_blank">Saiba mais</a>
-                </p>
-            </li>
-            <li class="icon fa-calendar">
-                <h3>XIX PHP FC</h3>
-                <small>27/07/2017 · 19:00</small>
-                <p>
-                    Talk 1: Monitorando a segurança de dependências
-                    <br />
-                    Talk 2: Como frustrar o usuário com a sua interface
-                    <br />
-                    <br />
-                    <a href="https://www.meetup.com/pt-BR/php-df/events/241799050/" class="button fit" target="_blank">Saiba mais</a>
-                </p>
-            </li>
-            <li class="icon fa-calendar">
-                <h3>XVIII PHP FC</h3>
-                <small>27/06/2017 · 19:00</small>
-                <p>
-                    Talk 1: HTTP2: novidades e boas práticas
-                    <br />
-                    Talk 2: 35 hábitos que fazem seu código cheirar mal
-                    <br />
-                    <br />
-                    <a href="https://www.meetup.com/pt-BR/php-df/events/240839164/" class="button fit" target="_blank">Saiba mais</a>
-                </p>
-            </li>
-            <li class="icon fa-beer">
-                <h3>I PHPinga</h3>
-                <small>25/05/2017 · 19:00</small>
-                <p>
-                    O PHPinga visa promover um encontro descontraído com todos os membros do PHPDF onde vamos jogar papo fora, comer e beber!
-                    <br />
-                    <br />
-                    <a href="https://www.meetup.com/pt-BR/php-df/events/240270961/" class="button fit" target="_blank">Saiba mais</a>
-                </p>
-            </li>
-        </ul>
-    </div>
+    {% include eventos.html %}
 </section>
 
 
 <!-- CTA -->
 <section id="cta" class="wrapper style4">
-    <div class="inner">
-        <header>
-            <h2>Quer ser um palestrante?</h2>
-            <p>Se você tem um assunto legal e está afim de compartilhar conosco, basta clicar no botão abaixo.</p>
-            <ul class="vertical actions">
-                <li><a href="https://github.com/php-df/quero-palestrar" class="button special">Quero palestrar</a></li>
-            </ul>
-        </header>
-    </div>
+    {% include palestrante.html %}
 </section>
 
 <!-- Two -->
 <section id="two" class="wrapper style2 patrocinadores">
-    <div class="inner">
-        <header class="major">
-            <h2>Parceiros e Patrocionadores</h2>
-        </header>
-        <ul class="icons major">
-            <li>
-                <a href="https://flisoldf.blog.br" target="_blank" title="FLISOLDF">
-                    <img src="images/flisol.png" title="FLISOLDF"/>
-                </a>
-            </li>
-        </ul>
-    </div>
+    {% include patrocinadores.html %}
 </section>
 
 

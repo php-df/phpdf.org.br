@@ -1,0 +1,42 @@
+<ul>
+    <li>
+        <a href="#cta" title="Quer ser um palestrante?">
+            <span>Quer ser um palestrante?</span>
+        </a>
+    </li>
+    <li>
+        <a href="#three" title="Eventos">
+            <span>Eventos</span>
+        </a>
+    </li>
+    <li>
+        <a href="#two" title="Parceiros">
+            <span>Parceiros</span>
+        </a>
+    </li>
+
+    {% for socloc in site.social %}
+        {% if socloc[1] %}
+            {% if socloc[0] == 'email' %}
+                <li>
+                    <a href="{{ socloc[1] }}" target="_blank">
+                        <span class="label">E-mail</span>
+                        <i class="fa fa-envelope-o"></i>
+                        <span>E-mail</span>
+                    </a>
+                </li>
+            {% else %}
+                <li>
+                    <a href="{{ socloc[1] }}"  target="_blank">
+                        <i class="fa fa-{{ socloc[0] }}"></i>
+                        {% if socloc[0] == 'facebook-official' %}
+                            <span>Facebook</span>
+                        {% else %}
+                            <span>{{ socloc[0] }}</span>
+                        {% endif %}
+                    </a>
+                </li>
+            {% endif %}
+        {% endif %}
+    {% endfor %}
+</ul>
