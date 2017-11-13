@@ -224,6 +224,15 @@ $baseurl: '{{ site.baseurl }}/images';
 				}
 			}
 		}
+
+		&.eventos {
+			.features{
+				span{
+					display: block;
+					height: 150px;
+				}
+			}
+		}
 	}
 
 	header {

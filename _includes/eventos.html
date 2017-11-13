@@ -6,49 +6,21 @@
         </p>
     </header>
     <ul class="features">
-        <li class="icon fa-code">
-            <h3>PHP TestFest 2017 #1</h3>
-            <small>04/11/2017 · 9:45</small>
-            <p>
-                De setembro a dezembro acontece o PHP TestFest 2017 e a primeira 2017 edição do PHPDF será sábado, 04/11/2017,
-                <br />
-                <br />
-                <a href="https://www.meetup.com/pt-BR/php-df/events/244578958/" class="button fit" target="_blank">Saiba mais</a>
-            </p>
-        </li>
-        <li class="icon fa-calendar">
-            <h3>XIX PHP FC</h3>
-            <small>27/07/2017 · 19:00</small>
-            <p>
-                Talk 1: Monitorando a segurança de dependências
-                <br />
-                Talk 2: Como frustrar o usuário com a sua interface
-                <br />
-                <br />
-                <a href="https://www.meetup.com/pt-BR/php-df/events/241799050/" class="button fit" target="_blank">Saiba mais</a>
-            </p>
-        </li>
-        <li class="icon fa-calendar">
-            <h3>XVIII PHP FC</h3>
-            <small>27/06/2017 · 19:00</small>
-            <p>
-                Talk 1: HTTP2: novidades e boas práticas
-                <br />
-                Talk 2: 35 hábitos que fazem seu código cheirar mal
-                <br />
-                <br />
-                <a href="https://www.meetup.com/pt-BR/php-df/events/240839164/" class="button fit" target="_blank">Saiba mais</a>
-            </p>
-        </li>
-        <li class="icon fa-beer">
-            <h3>I PHPinga</h3>
-            <small>25/05/2017 · 19:00</small>
-            <p>
-                O PHPinga visa promover um encontro descontraído com todos os membros do PHPDF onde vamos jogar papo fora, comer e beber!
-                <br />
-                <br />
-                <a href="https://www.meetup.com/pt-BR/php-df/events/240270961/" class="button fit" target="_blank">Saiba mais</a>
-            </p>
-        </li>
+        {% for post in site.categories.eventos %}
+            <li class="icon fa-{{ post.icon | escape }}">
+                <h3>{{ post.title | escape }}</h3>
+                {% assign date_format = site.minima.date_format | default: "%d/%m/%Y  · %H:%M" %}
+                <small>{{ post.date | date: date_format }}</small>
+                <p>
+                    <span>
+                        {{ post.description }}
+                    </span>
+
+                    {% if(post.link && post.link != '') %}
+                        <a href="{{ post.link }}" class="button fit" target="_blank">Saiba mais</a>
+                    {% endif %}
+                </p>
+            </li>
+        {% endfor %}
     </ul>
 </div>
