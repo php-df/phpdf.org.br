@@ -1,18 +1,18 @@
 <!-- Header -->
-<header id="header" {% if page.layout== 'landing' %} class="alt"{% endif %}>
-<h1>
-    <a href="{{ site.baseurl }}">
-        <img id="logo" src="images/logo_b.png" title="{{site.title}}" />
-    </a>
-</h1>
-<nav id="nav">
-    <ul>
-        <li class="special">
-            <a href="#menu" class="menuToggle"></a>
-            <div id="menu">
-                {% include menu.html %}
-            </div>
-        </li>
-    </ul>
-</nav>
+<header id="header" class="alt">
+    <h1>
+        <a href="{{ site.baseurl }}">
+            <img id="logo" src="images/logo_b.png" title="{{site.title}}" />
+        </a>
+    </h1>
+    <nav id="nav">
+        <ul>
+            <li class="special">
+                <a href="#menu" class="menuToggle"></a>
+                <div id="menu">
+                    {% include menu.html %}
+                </div>
+            </li>
+        </ul>
+    </nav>
 </header>
