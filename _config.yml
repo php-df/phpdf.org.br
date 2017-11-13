@@ -3,7 +3,7 @@ title: PHPDF
 description: Grupo de desenvolvedores PHP do Distrito Federal
 owner: PHPDF
 email: ""
-baseurl: "site-phpdf"
+baseurl: "/site-phpdf/"
 url: "https://jcavalin.github.io"
 social:
   twitter: https://twitter.com/phpdf_
