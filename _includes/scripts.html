@@ -7,4 +7,14 @@
 <!--[if lte IE 8]><script src="{{ "/js/ie/respond.min.js" | prepend: site.baseurl }}"></script><![endif]-->
 <script src="{{ "/js/main.js" | prepend: site.baseurl }}"></script>
 
+<script type="text/javascript">
+    $(function(){
+        $('a.mail').each(function(index, value){
+            var mail = $(this).attr('href').replace(/[a-zA-Z]/g,function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);});
+            $(this).attr('href', 'mailto:' + mail);
+            $(this).attr('title', mail);
+        });
+    });
+</script>
+
 {% include google-analytics.html %}
