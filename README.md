@@ -13,9 +13,9 @@ Este é o código do [https://phpdf.org.br][site]. Este site é automaticamente 
 Contribuindo
 ============
 
- * Se você perceber que algo esta errado [abra uma issue no GitHub][issue].
+ * Se você perceber que algo esta errado, [abra uma issue no GitHub][issue].
 
- * Você mesmo pode consertar, simplesmente [eite o arquivo no GitHub][edit] e abra um novo pull request. O site será recompilado assim que o seu pull request for aceito.
+ * Você mesmo pode consertar, simplesmente [edite o arquivo no GitHub][edit] e abra um novo pull request. O site será recompilado assim que o seu pull request for aceito.
 
  * Para testar localmente, voce pode instalar o Jekyll ou executar com Docker:
 
