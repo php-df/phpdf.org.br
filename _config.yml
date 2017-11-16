@@ -2,8 +2,9 @@
 title: PHPDF
 description: Grupo de desenvolvedores PHP do Distrito Federal
 owner: PHPDF
+url: "http://www.phpdf.org.br"
+image: "/images/logo-cinza-azul.png"
 baseurl: ""
-url: "https://www.phpdf.org.br"
 social:
   twitter: https://twitter.com/phpdf_
   github: https://github.com/php-df
