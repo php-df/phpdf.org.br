@@ -1,5 +1,7 @@
-.idea/
-uploads/
-upgrade/
-vendor/
-_site/
+.idea
+uploads
+upgrade
+vendor
+_site
+.sass-cache
+.jekyll-metadata
