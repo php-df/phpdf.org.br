@@ -19,7 +19,7 @@
         {% if socloc[1] %}
             {% if socloc[0] == 'email' || socloc[1] != '' %}
                 <li>
-                    <a href="{{ socloc[1] }}" class="mail" target="_blank" title="{{ socloc[1] }}"">
+                    <a href="mailto:{{ socloc[1] }}" class="mail" title="{{ socloc[1] }}">
                         <i class="fa fa-envelope-o"></i>
                         <span>E-mail</span>
                     </a>
