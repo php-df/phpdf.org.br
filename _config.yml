@@ -20,4 +20,4 @@ markdown: kramdown
 
 # Google-analytics
 google-analytics:
-  id: ""
+  id: "UA-109844866-1"
