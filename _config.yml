@@ -6,6 +6,7 @@ url: "https://phpdf.org.br"
 image: "/images/logo-azul-branco-300x300.png"
 baseurl: ""
 social:
+  joindin: https://joind.in/search?keyword=phpdf
   twitter: https://twitter.com/phpdf_
   github: https://github.com/php-df
   facebook-official: https://www.facebook.com/groups/518644508178778/
