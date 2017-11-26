@@ -24,6 +24,14 @@
                         <span>E-mail</span>
                     </a>
                 </li>
+            {% elsif socloc[0] == 'joindin' %}
+                <li>
+                    <a href="{{ socloc[1] }}" target="_blank"
+                        title="Joind.in é ferramenta de feedback de facto das comunidades PHP no mundo. Veja o que já tem do #PHPDF por lá">
+                    <i class="fa fa-bullhorn"></i>
+                        <span>Joind.in</span>
+                    </a>
+                </li>
             {% else %}
                 <li>
                     <a href="{{ socloc[1] }}"  target="_blank">

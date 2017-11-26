@@ -9,10 +9,21 @@
                             <span class="label">E-mail</span>
                         </a>
                     </li>
+                {% elsif socloc[0] == 'joindin' %}
+                    <li>
+                        <a target="_blank" href="{{ socloc[1] }}" class="icon fa-bullhorn" title="Joind.in">
+                            <span class="label">{{ socloc[0] }}</span>
+                        </a>
+                    </li>
                 {% else %}
                     <li>
-                        <a target="_blank" href="{{ socloc[1] }}" class="icon fa-{{ socloc[0] }}">
+                        {% if socloc[0] == 'facebook-official' %}
+                        <a target="_blank" href="{{ socloc[1] }}" class="icon fa-{{ socloc[0] }}" title="facebook">
+                        <span class="label">facebook</span></a>
+                        {% else %}
+                        <a target="_blank" href="{{ socloc[1] }}" class="icon fa-{{ socloc[0] }}" title="{{ socloc[0] }}">
                         <span class="label">{{ socloc[0] }}</span></a>
+                        {% endif %}
                     </li>
                 {% endif %}
             {% endif %}
