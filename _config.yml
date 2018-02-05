@@ -22,3 +22,7 @@ markdown: kramdown
 # Google-analytics
 google-analytics:
   id: "UA-109844866-1"
+plugins:
+  - jekyll-paginate
+paginate: 4
+paginate_path: "/eventos/page:num"
