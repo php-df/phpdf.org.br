@@ -1,0 +1,14 @@
+---
+layout:      default
+title:       "25º PHP FC"
+date:        2019-08-29 19:00:00-0300
+description: "
+Talk 1: Queues com RabbitMq e Symfony Messenger - Como deixar suas funcionalidades com uma única responsabilidade
+<br />
+Talk 2: Soft Skills
+"
+categories:  php-fc
+link:        https://www.meetup.com/pt-BR/php-df/events/264188227/
+icon:        calendar
+---
+
